@@ -1,13 +1,5 @@
 function multipy(a, b) {
   return a * b;
-  {
-    "name": "115",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
     "keywords": [],
     "author": "",
     "license": "ISC",
@@ -22,6 +14,6 @@ function multipy(a, b) {
 function multipy(a, b) {
   return a * b;
 }
-function multipy(a, b) {
+function functionss(a, b) {
   return a * b;
 }
